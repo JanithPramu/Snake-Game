@@ -1,4 +1,3 @@
-Here's a sample README for your Snake Game repository on GitHub:
 
 ---
 
